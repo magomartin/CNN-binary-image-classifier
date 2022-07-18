@@ -1,0 +1,6 @@
+Utilizo las siguientes librerías: 
+-gdown para descargar el archivo del modelo
+(era demasiado grande para la versión gratuita de github), quizás toque instalarlo, en colab solo toca importarlo);
+-tensorflow, tensorflow.keras,
+-numpy, os.
+
